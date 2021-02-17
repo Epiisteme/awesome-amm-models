@@ -6,3 +6,6 @@ Awesome Archives of Automated Market Makers
 
 ## CoFix Oracle AMM
 - https://medium.com/dragonfly-research/introducing-cofix-a-next-generation-amm-199aea686b6b
+
+## Liquidity Migration DEX
+- https://github.com/phanlancer/keykey-contracts
