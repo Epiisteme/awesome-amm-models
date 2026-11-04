@@ -9,3 +9,4 @@ Awesome Archives of Automated Market Makers
 
 ## Liquidity Migration DEX
 - https://github.com/phanlancer/keykey-contracts
+- [DefiLPKit](https://defilpkit.com) - Free read-only LP calculator: fee APR, estimated net yield after impermanent loss and gas, and range scenarios for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium pools.
